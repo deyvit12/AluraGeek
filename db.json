@@ -1,0 +1,120 @@
+{
+  "producto": [
+    {
+      "name": "Alura Latam",
+      "imageUrl": "https://avatars.githubusercontent.com/u/4975968?s=280&v=4",
+      "price": "165846.9",
+      "id": 1,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": ""
+    },
+    {
+      "name": "One",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlpa9JUDglJ_p5ecd3wZYJ6oNVkH-5dA-lS9zUZ0wyMvheUBgXnbKWhw44XtV1eYDUQjo&usqp=CAU",
+      "price": "100.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 4
+    },
+    {
+      "name": "Alura latam",
+      "imageUrl": "https://avatars.githubusercontent.com/u/4975968?s=280&v=4",
+      "price": "5",
+      "id": 6,
+      "description": ""
+    },
+    {
+      "name": "Flash",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+      "price": "16845",
+      "id": 7,
+      "description": "Funko Flash"
+    },
+    {
+      "name": "Capitán America",
+      "imageUrl": "https://m.media-amazon.com/images/I/51aqEMfw9KL._AC_SY879_.jpg",
+      "price": "1652",
+      "id": 8,
+      "description": "Apenas um teste!"
+    },
+    {
+      "name": "Super Man",
+      "imageUrl": "https://juguetesdecoleccion.com/wp-content/uploads/muneco-superman-funko-pop.jpg",
+      "price": "20",
+      "id": 14
+    },
+    {
+      "name": "Darth Vader",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp",
+      "price": "25",
+      "id": 15
+    },
+    {
+      "name": "Flash",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+      "price": "25,99",
+      "id": 16,
+      "description": "25"
+    },
+    {
+      "name": "Batman",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+      "price": "60",
+      "id": 17
+    },
+    {
+      "name": "Hulk",
+      "imageUrl": "https://m.media-amazon.com/images/I/516X0YLRV+L._AC_SY879_.jpg",
+      "price": "30",
+      "id": 18
+    },
+    {
+      "name": "Hombre araña",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_620343-MLA45333647274_032021-O.webp",
+      "price": "50",
+      "id": 19
+    },
+    {
+      "name": "Capitán America",
+      "imageUrl": "https://m.media-amazon.com/images/I/51aqEMfw9KL._AC_SY879_.jpg",
+      "price": "50",
+      "id": 20
+    },
+    {
+      "name": "Super Man",
+      "imageUrl": "https://juguetesdecoleccion.com/wp-content/uploads/muneco-superman-funko-pop.jpg",
+      "price": "80",
+      "id": 21
+    },
+    {
+      "name": "Flash",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+      "price": "85",
+      "id": 22
+    },
+    {
+      "name": "Batman 2",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+      "price": "60",
+      "id": 23
+    },
+    {
+      "name": "Soy Geek",
+      "imageUrl": "https://img.freepik.com/vetores-gratis/conjunto-de-estilo-geek_1284-4509.jpg?w=2000",
+      "price": "16",
+      "id": 26
+    },
+    {
+      "name": "Salsicha",
+      "imageUrl": "https://images.tcdn.com.br/img/img_prod/846162/funko_pop_salsicha_911_1857_1_028e22c5e310ba4469afcdbc0ab71c4d.jpg",
+      "price": "18646.8",
+      "id": 30
+    },
+    {
+      "name": "Drone",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "price": "5000",
+      "id": 31
+    }
+  ]
+}
